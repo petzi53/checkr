@@ -636,7 +636,7 @@ print_function_contents(
 
 Trying out the test ...
 ```{r}
-check_exer_14(submission)
+# check_exer_14(submission)
 ```
 In lines 4/5 of the `check_exer_14()` checking function,  note that the second argument to `check_blanks()` is a command template very similar to that used for the scaffolding in the exercise chunk. But the template handed to `check_blanks()` must have the blanks written in a special format: two dots followed by a unique name followed by another two dots, e.g. `..geom..`.
 
