@@ -1,4 +1,4 @@
-Package: checkr
+Package: checkr2
 Type: Package
 Title: Facilities for checking R submissions in tutorials
 Version: 0.3.0
