@@ -1,7 +1,7 @@
-Package: checkr2
+Package: checkr
 Type: Package
 Title: Facilities for checking R submissions in tutorials
-Version: 0.3.0
+Version: 0.6.0
 Author: Daniel Kaplan
 Maintainer: Daniel Kaplan <kaplan@macalester.edu>
 Description: Helps check code submissions for learnr tutorials.
